@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>set.png</file>
+        <file>add.png</file>
+        <file>danger.png</file>
+        <file>exit.png</file>
+        <file>exit2.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
